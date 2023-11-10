@@ -1,0 +1,7 @@
+What is the use of UUID in node?
+
+In general, you can use UUID for any fields that function as a unique identifier. Using UUID might be particularly useful if you are migrating data not stored in MongoDB since it is likely that your object's unique identifiers are already of a UUID type.
+
+What is the use of UUID in React JS?
+
+UUIDs are unique identifiers that can be used for various purposes, such as generating unique keys for components or generating random IDs for data entries.
